@@ -41,7 +41,6 @@ dependencies:
   animated_splash_screen: ^1.2.0
   http: ^0.13.5
   provider: ^6.0.5
-  url_launcher: ^6.1.10
   email_validator: ^2.0.1
   flutter_countdown_timer: ^4.1.0
   #flutter_native_splash: ^2.3.0
